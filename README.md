@@ -1,4 +1,4 @@
-# Systemantics Micro-Nodes
+# Systems Thinking
 
 **A navigable systems-thinking thought partner for working through complex system problems with human judgment.**
 
